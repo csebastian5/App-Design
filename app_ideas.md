@@ -60,3 +60,35 @@
 8. Shopper List Discount
 9. Location Reminder
 
+## Top 3 New App Ideas
+1. Garage Sale App
+2. Social Receipt Budgeting
+3. Best deal app
+
+## New App Ideas - Evaluate and Categorize
+1. Garage Sale App
+   - **Description**: Locates all garage and estate sales in a given area.
+   - **Category:** Lifestyle  
+   - **Mobile:** Mobile app for now, as it is the limit of our current potential, as well as the fact that pretty much everyone owns a mobile device.
+   - **Story:** The app can be used to find a garage sale or an estate sale in a given location making the hunt for such sales easier.
+   - **Market:**  Many people are big fans of attending garage and estate sales. Having an app where the user can find a local garage sale on a weekend, for example, would make it convenient.
+   - **Habit:** Users can both use the app to search for a sale, or promote their own app 
+   - **Scope:** The app can start as simple as a way to search for local sales, or have the user list their own sale.
+
+1. Social Receipt Budgeting
+   - **Description**: Allows groups of people to keep track of their spending in real time in terms of the budget that is created for them through the app based on their preferences/goals.
+   - **Category:** Social, Productivity, Lifestyle
+   - **Mobile:** Mobile is essential for the instant logging of spending by each person of the group. Users use the app to check their budget and recieve real time updates on others', user spends based on this.
+   - **Story:** Creates a shared group mentality for budgeting and keeps everyone in check and cautious. Allows organization of spending for companies, families, groups of friends, school organizations, etc.
+   - **Market:** Anyone who is interested in budgeting their money in terms of a group aspect. Can implement social messaging as well. 
+   - **Habit:** On a daily reccurence when people spend money, people constantly need to be wary of their money especially when it is shared. It would be checked whenever someone spends money.
+   - **Scope:** V1 would allow users to check the shared budget and real-time spending. Could be tested by anyone. V2 would incorporate a social messaging or posting aspect in response to the spending. Could also add locks on what people can spend or not. V3 would add a way for people to change the budget, and in turn change the suggested budget spending for each person based on what they've already spent. V4 would a main user assigning subdivisions of the budget to allow what people can or cannot spend.
+
+3. Best deal app
+    - **Description**: Based on the user input, the app will search for nearby deals, and coupons to give the user cost efficient offers on what they would like to purchase.
+   - **Category:** Productivity, Lifestyle
+   - **Mobile:** Using a mobile for this app is essential since many of the users will be on the go while looking for their next purchase. 
+   - **Story:** Looking to print coupons and deals online is an outdated practice with no gaurantee that these offers will work. This app will help budget conscious shoppers to minimize the time spent on finding deals by doing the hard work for them.
+   - **Market:** This app would be useful to a wide range of people whether it be a college student, parent, or anyone whp wants to control their spending ventures but retain quality of their purchases. 
+   - **Habit:** Anytime a shopper is looking for a specific product or service, they can quickly input what they want in the app and will get back quick deals.
+   - **Scope:** The app can start by giving users the best offers on their desired products/services and evolve to be able to communicate with other users and suggest deals/offers on their needs. 
